@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # askCharlie's Guestbook
 
 Remember the old Guestbooks on Geocities-era websites? They're back! :)
@@ -39,3 +40,7 @@ $ bundle exec rake db:migrate
 ```
 $ bundle exec rackup -s Puma
 ```
+=======
+# ruby
+this is the ruby app repo
+>>>>>>> 01b83e8c259e21e018ec491d91b2509b99859873
